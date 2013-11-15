@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface Networking_AppTests : XCTestCase
+@interface IceBreaker_AppTests : XCTestCase
 
 @end
 
-@implementation Networking_AppTests
+@implementation IceBreaker_AppTests
 
 - (void)setUp
 {

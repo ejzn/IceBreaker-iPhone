@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 Erik Johnson. All rights reserved.
 //
 
-#import "ntwrkrAppDelegate.h"
+#import "iceBreakerAppDelegate.h"
 
-@implementation ntwrkrAppDelegate
+@implementation iceBreakerAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
